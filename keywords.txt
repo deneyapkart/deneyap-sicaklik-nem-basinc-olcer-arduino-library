@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For	Deneyap_SicaklikNemBasincOlcer
+#######################################
+
+#######################################
+# Library (KEYWORD1)
+#######################################
+Deneyap_SicaklikNemBasincOlcer KEYWORD1 
+
+####################################
+# Class (KEYWORD1)
+####################################
+SHT4x	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+setPort	KEYWORD2
+checkCRC	KEYWORD2
+setChipType	KEYWORD2
+getChipType	KEYWORD2
+softReset	KEYWORD2
+checkSerial	KEYWORD2
+setMode	KEYWORD2
+getMode	KEYWORD2
+measure	KEYWORD2
+TtoDegC	KEYWORD2
+TtoDegF	KEYWORD2
+RHtoPercent	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
